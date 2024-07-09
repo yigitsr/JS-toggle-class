@@ -2,5 +2,4 @@
 
 This repository includes code examples of Javascript classList methods.
 
-[[[https://jsfiddle.net/LemmyAce/mgdw6ctL/2/
-](https://jsfiddle.net/LemmyAce/mgdw6ctL/4/)](https://jsfiddle.net/LemmyAce/mgdw6ctL/4/)](https://jsfiddle.net/LemmyAce/mgdw6ctL/4/)
+https://jsfiddle.net/LemmyAce/mgdw6ctL/4/
