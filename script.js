@@ -22,3 +22,6 @@ _divID.classList.remove('removeClass')
 
 //contains will return true if it has class of 'foo' or false if it does not
 _divID.classList.contains('containsClass')
+
+//replace
+_divID.classList.replace("foo", "bar");
